@@ -1,0 +1,25 @@
+{
+  "engineering": {
+    "title": "Engineering the Impossible: Tales from Fictional Tech Giants",
+    "description": "Uncover dramatic stories of scaling codebases, inventing frameworks, and rewriting the rules of system architecture — all from the minds of legendary (and imaginary) engineers.",
+    "label": "Engineering"
+  },
+  "product-design": {
+    "title": "Designing for Unicorns: Creative Processes in Fantasy Startups",
+    "description": "Explore how fictional teams craft delightful user experiences for magical apps. Case studies include enchanted wireframes and UX tested by dragons.",
+    "label": "Product Design"
+  },
+  "data-science": {
+    "title": "Crunching Fictional Numbers: AI and Analytics in Alternate Realities",
+    "description": "From predictive models that forecast alien invasions to machine learning that optimizes dragon flight paths — dive into data science in made-up worlds.",
+    "label": "Data Science"
+  },
+  "business": {
+    "title": "Imaginary Markets: Business Strategy in Parallel Universes",
+    "description": "Learn how visionary leaders in fictional economies transform imaginary industries using disruptive strategies, quantum KPIs, and unicorn-powered ROI.",
+    "label": "Business"
+  },
+  "backend": {
+    "label": "Backend"
+  }
+}

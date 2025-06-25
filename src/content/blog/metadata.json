@@ -1,0 +1,11 @@
+{
+  "title": "Discover the Future – Blog | TechNova Insights",
+  "description": "Stay ahead with the latest innovations and thought leadership in emerging technologies. Our blog delivers in-depth articles, fictional case studies, and expert advice for modern digital solutions.",
+  "homepagePlacement": [
+    { "position": "main", "id": "abc123" },
+    { "position": "rightTop", "id": "def456" },
+    { "position": "rightBottom", "id": "ghi789" }
+  ],
+  "headline": "Discover the Future of Technology",
+  "blogListTitle": "Latest Articles & Stories"
+}

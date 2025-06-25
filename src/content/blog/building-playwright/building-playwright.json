@@ -1,0 +1,22 @@
+{
+  "id": "building-playwright",
+  "title": "Building Playwright",
+  "subtitle": "New",
+  "publishDate": "2025-05-23",
+  "createDate": "2025-05-07",
+  "headerImage": {
+    "alt": "Developer",
+    "src": "/content/blog/building-playwright/header.jpg"
+  },
+  "thumbnailImage": {
+    "alt": "Developer .",
+    "src": "/content/blog/building-playwright/thumbnail.jpg"
+  },
+  "topics": ["engineering"],
+  "readingTime": "9 min",
+  "author": {
+    "name": "AAA BB",
+    "title": "QA Automation Engineer",
+    "linkedinHref": "https://www.linkedin.com/"
+  }
+}
